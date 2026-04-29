@@ -1,0 +1,27 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   pushswap.h                                         :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: asyeo <asyeo@student.42kl.edu.my>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/01/29 14:12:45 by asyeo             #+#    #+#             */
+/*   Updated: 2026/02/27 11:56:02 by asyeo            ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#ifndef 
+# define 
+
+/*all includes*/
+
+# include "pushswap_utils.h"
+# include <stdio.h>
+
+/*strings functions protoypes*/
+
+/*pushswap parsing - exit functions protoypes*/
+
+/*pushswap instructions*/
+
+/*pushswap algo functions*/
